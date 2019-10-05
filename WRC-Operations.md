@@ -59,7 +59,8 @@ If the decision has a precedent with weak documentation, any two WRC members can
 Example:
 
 > WRC Member #1: _"I think we’ve had a past situation where we removed a duplicate scramble from “the Multi-Blind cube count. Please wait for a second opinion from another WRC member, though."_
-> WRC Member #2:  _"Yes, that's right, I agree with WRC Member #1. WRC decision: the 17-cube attempt should be scored as 14/16."
+
+> WRC Member #2: _"Yes, that's right, I agree with WRC Member #1. WRC decision: the 17-cube attempt should be scored as 14/16."_
 
 ### New Decision
 
