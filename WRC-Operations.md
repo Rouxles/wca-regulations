@@ -82,7 +82,7 @@ Since not all members may be available at a given time, or have a strong enough 
 - Once the vote is started, every WRC member gives their opinion.
 - After 48h since the start of the vote:
   - If > 50% of WRC members agree, this constitutes official WRC decision. The referee posts it on the report thread, and updates the log, as described above.
-  - If <= 50% of WRC members agree, the referee may ping WRC again for new opinions. After the ping, the referee waits again until 48h after the last email, and the majority opinion is the official WRC decision, no matter how many members voted.
+  - If ≤ 50% of WRC members agree, the referee may ping WRC again for new opinions. After the ping, the referee waits again until 48h after the last email, and the majority opinion is the official WRC decision, no matter how many members voted.
 
 If you don’t have enough time when you read an email to properly express your thoughts, feel free to write it in a short email (e.g. “I think this should be DNFed, I’ll explain my reasoning when I have more time”, or “I have a few more arguments regarding this, but I don’t have much time right now”). This way the referee knows you want to participate in the ruling, and may ping you directly, and you won’t forget that you wanted to reply.
 
