@@ -49,8 +49,8 @@ If the decision for an incident or question is clearly documented (i.e. in the R
 
 Example:
 
-    _“Yes, we have had past situations where the judge forgot to hold up a sight blocker: [https://www.worldcubeassociation.org/incidents/30](https://www.worldcubeassociation.org/incidents/30)_
-    _Since there is no sign that the competitor took any advantage, you may take it as a WRC decision that their result may stand.”_
+> _“Yes, we have had past situations where the judge forgot to hold up a sight blocker: [`https://www.worldcubeassociation.org/incidents/30`](https://www.worldcubeassociation.org/incidents/30).
+> Since there is no sign that the competitor took any advantage, you may take it as a WRC decision that their result may stand.”_
 
 ### With Precedent
 
