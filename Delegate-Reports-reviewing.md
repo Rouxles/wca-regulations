@@ -3,9 +3,8 @@
 - Primary/secondary
   - **Reply** to the **Delegate report** email
     - State "I've reviewed this report on behalf of the WRC, and everything looks good!"
-    - To: the competition Delegates (this should be automatic)
-    - CC: the primary/secondary for the report (so your assignment partner knows)
-    - CC: the WRC leader
+    - To: anyone
+    - CC: the whole Committee (so they know the report was reviewed)
 - Any WRC member
   - Nothing to do!
 
