@@ -2,7 +2,7 @@
 
 - Primary/secondary
   - **Reply** to the **Delegate report** email
-    - State "I've reviewed this report on behalf of the WRC, and everything looks good!"
+    - State "I've reviewed this report and everything looks good!"
     - To: anyone
     - CC: the whole Committee (so they know the report was reviewed)
 - Any WRC member
