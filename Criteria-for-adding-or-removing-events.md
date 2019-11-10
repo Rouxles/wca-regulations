@@ -1,3 +1,5 @@
+# Addition of a new event
+
 Not necessarily complete list of criteria:
 
 - Community Interest
@@ -9,3 +11,15 @@ Not necessarily complete list of criteria:
 See the addition of Skewb for an example ([#159](../issues/159), [#102](../issues/102)).
 
 _(copied from issue [#183](../issues/183))_
+
+# Removal of an existing event
+
+Not necessarily complete list of criteria:
+
+- Drop of the number of competitions that held it in more than 5% in 5 years
+- Being held by less than 30% of competitions
+- Less than 4.5% of competitors participate in this event
+- Difficult to hold at competitions
+- Having the approval of it removal of at least 50% of Delegates (from an internal poll)
+
+_(disclaimer: this list is a draft)_
