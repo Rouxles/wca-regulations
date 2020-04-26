@@ -1,9 +1,3 @@
-# WCA Regulations Committee - Minutes Log
-
-Section with all Minutes Log from the WCA Regulations Committee meetings.
-
----
-
 ## 2019-09-03 WRC Meeting
 On September 3, 2019 at 15:00 UTC+0, the WCA Regulations Committee (the “WRC”) met for a regular meeting via Jitsi. The meeting was live streamed on YouTube.
 
