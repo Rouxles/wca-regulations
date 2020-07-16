@@ -121,7 +121,7 @@ Note:
 
 # WCA Forum
 
-TBD. The WCA forum is still being set up.
+The WRC uses the [WCA Regulation category](https://forum.worldcubeassociation.org/c/regulations/5) in the WCA Forum as the main source of Community feedback and public discussions about the Regulations.
 
 # GitHub
 
