@@ -27,6 +27,7 @@ In general, new changes should be made by **two** WRC members based on the argum
 - A proposal by one team member and approved by another team member.
 - An external proposal approved by two team members.
 
+(partially copied from the [WRC Operations wiki page](https://github.com/thewca/wca-regulations/wiki/WRC-Operations))
 Exceptions
 
 - Typo fixes and minor cleanup (e.g. clarifications supported by past documentation) can be accepted/directly changed by a single WRC member.
@@ -46,7 +47,25 @@ Exceptions
 
 ## 5. Public Announcement
 
-## 6. Software Rollout Process
+- Announce:
+  - website (e.g. https://www.worldcubeassociation.org/posts/wca-regulations-may-2019)
+  - staff
+  - WCT
+  - `organizations@`
 
+(partially copied from issue [#725](../issues/725))
+
+## Software Rollout Process
+
+- Update branches
+  - Update main date, remove textual revision date (e.g. 962213a30fbd1157f61fbf49a319c13245262144)
+  - Merge `draft` into `official` (this should just be a fast-forward if we've been keeping `draft` up to date with `official`).
+  - Create a tag (e.g. [`official-2019-05-01`](https://github.com/thewca/wca-regulations/releases/tag/official-2019-05-01))
+- Deploy website: https://github.com/thewca/worldcubeassociation.org/wiki/Merging-and-deploying#how-to-merge-and-deploy-a-pr
+  - Note: The website automatically pulls the latest Regs from the `wca-regulations` repo, so there's usually no need to update the main website codebase.
+
+(partially copied from issue [#725](../issues/725))
+
+## Translations
 
 ## Final Notes
